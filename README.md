@@ -7,7 +7,7 @@ is crisp, concise, easy to read, conveys all the necessary information at a glan
 motivation behind the task is to assemble a program to reduce manual work and
 increase efficiency.
 
-Main functions used are:
+**Main functions used are:**
 Order: To view food items and order. Also, will display the bill.
 Payment: To choose a method of payment to pay the bill.
 Serve: To show the order number and inform the order is ready to
@@ -21,10 +21,10 @@ manage food categories, costs, quantities, bills and payments.
 • To reduce manual work.
 • To create a friendly interface between the customer and the provider.
 
-3.1 Software Requirements
+**Software Requirements**
 The language used: C
 Operating System: Windows 7(minimum)
 
-3.2 Hardware Requirements
+**Hardware Requirements**
 Hard disk: 1Tb(minimum)
 Processor: i3(minimum)
